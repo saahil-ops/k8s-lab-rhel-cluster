@@ -1,4 +1,4 @@
-# Kubernetes Cluster on AWS using RHEL 9 🚀
+# Kubernetes Cluster on AWS/VMware using RHEL 9 🚀
 
 This project demonstrates how to set up a Kubernetes cluster from scratch using `kubeadm` on RHEL 9 EC2 instances hosted on AWS.
 
