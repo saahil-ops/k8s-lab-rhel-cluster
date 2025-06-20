@@ -15,12 +15,6 @@ This project demonstrates how to set up a Kubernetes cluster from scratch using 
 
 ---
 
-## 🧱 Architecture
-
-![Architecture Diagram](./assets/architecture-diagram.png)
-
----
-
 ## ⚙️ Prerequisites
 
 - AWS account with EC2 key pair
